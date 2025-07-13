@@ -1,4 +1,6 @@
-
+<img width="1351" height="625" alt="Image" src="https://github.com/user-attachments/assets/a6de3c00-9892-4153-b584-2065d971da9f" />
+<img width="1347" height="622" alt="Image" src="https://github.com/user-attachments/assets/daf99b9b-36ca-41f6-9487-4223275c913c" />
+<img width="1348" height="632" alt="Image" src="https://github.com/user-attachments/assets/64103cbe-a37b-404b-ba3c-a99320212737" />
 
 - [Demo Project](https://avada-parallax.vercel.app/)
 
